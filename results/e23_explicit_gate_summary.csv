@@ -1,0 +1,2 @@
+g_explicit_mean,g_explicit_sd,b_explicit_mean,b_explicit_sd,overall_mcc_learned,overall_mcc_explicit,overall_auc_learned,overall_auc_explicit,key_cell_dMCC_learned,key_cell_dMCC_explicit
+0.5412,0.2265,-0.0666,0.235,0.8207,0.8206,0.9724,0.9743,0.2,0.1144

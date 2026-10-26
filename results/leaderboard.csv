@@ -1,0 +1,15 @@
+method,modality,AUC,PR_AUC,MCC,F1,Brier,ECE,top500_tp,source
+SecProGNN,structure,0.9664,0.927,0.7835,0.8448,0.0668,0.022,417.0,"recomputed (20-seed aggregated, n=1613)"
+MKMP,structure,0.9641,0.9239,0.7814,0.8447,0.0689,0.0224,417.0,"recomputed (20-seed aggregated, n=1613)"
+ESM-MLP,sequence,0.9612,0.9221,0.7819,0.8436,0.0683,0.0268,418.0,"recomputed (20-seed aggregated, n=1613)"
+weighted,fusion,0.9721,0.9412,0.8125,0.866,0.0594,0.0218,427.0,"recomputed (20-seed aggregated, n=1613)"
+logistic stacking,fusion,0.9688,0.9371,0.789,0.8538,0.0696,0.0637,426.0,"recomputed (20-seed aggregated, n=1613)"
+isotonic stacking,fusion,0.9688,0.9374,0.8092,0.8653,0.0602,0.0158,427.0,"recomputed (20-seed aggregated, n=1613)"
+ReliFuse,fusion,0.9724,0.9423,0.8176,0.8705,0.0578,0.0158,424.0,"recomputed (20-seed aggregated, n=1613)"
+DeepSec,-,0.8561,,0.5288,0.6594,,,,in-house (main-text Table I)
+ESMSec,-,0.9316,,0.7002,0.7883,,,,in-house (main-text Table I)
+ESM-2 650M + MLP,-,0.9587,,0.7666,0.8331,,,,in-house (main-text Table I)
+ESM-C 300M + MLP,-,0.9607,,0.7785,0.8434,,,,in-house (main-text Table I)
+GAT,-,0.9466,,0.7116,0.7952,,,,in-house (main-text Table I)
+GraphIDN,-,0.949,,0.7263,0.8074,,,,in-house (main-text Table I)
+GIN,-,0.9546,,0.7351,0.809,,,,in-house (main-text Table I)

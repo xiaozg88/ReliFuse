@@ -1,0 +1,16 @@
+﻿对比,指标,n,均值Δ,SD,胜负平,Wilcoxon_p
+gated2 vs mkmp,MCC,25,0.0268,0.0195,24/1/0,2.98e-07
+gated2 vs mkmp,F1,25,0.0196,0.0155,24/1/0,1.79e-07
+gated2 vs mkmp,AUC,25,0.0077,0.0041,24/1/0,1.19e-07
+gated2 vs mkmp,Brier,25,-0.009,0.0038,0/25/0,5.96e-08
+gated2 vs mkmp,ECE,25,-0.006,0.0087,6/19/0,1.03e-03
+gated2 vs weighted,MCC,25,-0.0032,0.01,9/16/0,1.41e-01
+gated2 vs weighted,F1,25,-0.002,0.0075,11/14/0,1.82e-01
+gated2 vs weighted,AUC,25,-0.0001,0.0011,12/13/0,7.11e-01
+gated2 vs weighted,Brier,25,0.0001,0.0013,14/11/0,7.31e-01
+gated2 vs weighted,ECE,25,0.0009,0.0066,13/12/0,5.42e-01
+weighted vs mkmp,MCC,25,0.03,0.0212,24/1/0,4.17e-07
+weighted vs mkmp,F1,25,0.0216,0.0165,23/2/0,5.96e-07
+weighted vs mkmp,AUC,25,0.0078,0.0046,24/1/0,1.79e-07
+weighted vs mkmp,Brier,25,-0.0091,0.0041,1/24/0,1.19e-07
+weighted vs mkmp,ECE,25,-0.007,0.0095,4/21/0,7.50e-05

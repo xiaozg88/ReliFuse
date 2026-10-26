@@ -1,0 +1,11 @@
+# ReliFuse benchmark / manuscript scripts — Python 3.9+
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+python-docx
+
+# Optional, only for make_explicit_gate_valid.py (gate refit on cached logits):
+# torch
+# torch_geometric

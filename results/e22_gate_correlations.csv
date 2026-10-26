@@ -1,0 +1,5 @@
+component,feature,spearman_r,p
+g_gated2,plddt,0.2254,5.09e-20
+g_gated2,max_identity,-0.1912,9.72e-15
+b_gated2,plddt,0.2856,1.19e-31
+b_gated2,max_identity,0.0332,1.82e-01

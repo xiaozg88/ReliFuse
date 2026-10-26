@@ -1,0 +1,2 @@
+cell,n,n_pos,point_dMCC,boot_n_resamples,boot_CI95_low,boot_CI95_high,boot_frac_positive,perm_n,perm_p_two_sided,lopo_folds,lopo_min,lopo_max,lopo_mean,lopo_all_positive
+pLDDT<70 & identity<0.20,273,22,0.1755,10000,0.0505,0.2641,0.9968,10000,0.0008,22,0.1507,0.1851,0.1763,True
